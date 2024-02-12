@@ -1,6 +1,7 @@
 <template>
   <div class="screen">
-    <h1>Poke Memories</h1>
+    <h1>Pokemon Game</h1>
+    <p>By WaveD</p>
     <p>Select mode to start game</p>
     <div class="modes">
       <button @click="onStart(16)">
